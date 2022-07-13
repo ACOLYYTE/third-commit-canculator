@@ -1,0 +1,2 @@
+23.0 + 42.0 = 65.0
+Error! Not number

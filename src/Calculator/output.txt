@@ -1,0 +1,6 @@
+23.0 + 42.0 = 65.0
+Error! Not number
+23.0 + 42.0 = 65.0
+Error! Not number
+Error! Division by zero
+45.0 * 2.0 = 90.0
